@@ -33,5 +33,22 @@
 .blog_image{
     width: 336px;
     height: 200px;
+    
+}
+
+.card img{
     border-radius: 10px;
+    
+}
+
+.category{
+    margin-top: 24px;
+}
+
+.author{
+    justify-content: baseline;
+}
+.author img{
+    width: 32px;
+    height: 32px;
 }
